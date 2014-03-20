@@ -1,5 +1,5 @@
 ##################################################################################
-## Using svn repo template, revision 0.0.2 (2013-12-19)
+## Using svn repo template, revision 0.0.3 (2014-03-20)
 ## 
 ## - branches/tags/trunk directories
 ## - optional hook for pre/post commit via external application subhooker
@@ -8,8 +8,12 @@
 ## 
 ## Happy hackin'
 ##  Ola Tenglin / Development Support
-## 
-## http://semver.org
+##
+## Use Semantic Versioning:
+##  http://semver.org
+##
+## Tooling FAQ:
+##  http://epic.hm.com/sites/novacollaboration/Tools/Lists/Tools%20FAQ/AllItems.aspx
 ##
 ##################################################################################
 Repo responsible: 
