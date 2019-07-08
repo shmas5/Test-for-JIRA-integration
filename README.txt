@@ -25,4 +25,4 @@ TeamCity project name:
 Technology base: 
 H&M Division: 
 
-Test for Jira integration
+Test for Jira integration 
